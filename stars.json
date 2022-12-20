@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "andriisoldatenko/awesome-performance-testing",
+    "stargazers_count": 129,
+    "open_issues_count": 2,
+    "forks_count": 22
+  },
+  {
+    "full_name": "enaqx/awesome-pentest",
+    "stargazers_count": 17436,
+    "open_issues_count": 37,
+    "forks_count": 4119
+  },
+  {
     "full_name": "AlirieGray/da-state-manager-backend",
     "stargazers_count": 1,
     "open_issues_count": 3,
@@ -7,8 +19,8 @@
   },
   {
     "full_name": "open-sauced/api.opensauced.pizza",
-    "stargazers_count": 12,
-    "open_issues_count": 20,
+    "stargazers_count": 13,
+    "open_issues_count": 19,
     "forks_count": 6
   },
   {
@@ -16,12 +28,6 @@
     "stargazers_count": 203,
     "open_issues_count": 1,
     "forks_count": 21
-  },
-  {
-    "full_name": "ZuhRa-HashiMi/JS_Capastone",
-    "stargazers_count": 1,
-    "open_issues_count": 9,
-    "forks_count": 0
   },
   {
     "full_name": "techfort/LokiJS",
@@ -49,19 +55,19 @@
   },
   {
     "full_name": "codex-team/editor.js",
-    "stargazers_count": 21016,
-    "open_issues_count": 462,
-    "forks_count": 1632
+    "stargazers_count": 21049,
+    "open_issues_count": 465,
+    "forks_count": 1638
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 18120,
+    "stargazers_count": 18388,
     "open_issues_count": 1,
-    "forks_count": 990
+    "forks_count": 1001
   },
   {
     "full_name": "deckgo/deckdeckgo",
-    "stargazers_count": 1532,
+    "stargazers_count": 1535,
     "open_issues_count": 103,
     "forks_count": 163
   },
@@ -73,13 +79,13 @@
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 13893,
+    "stargazers_count": 13928,
     "open_issues_count": 2,
-    "forks_count": 1104
+    "forks_count": 1117
   },
   {
     "full_name": "drawrowfly/instagram-scraper",
-    "stargazers_count": 370,
+    "stargazers_count": 371,
     "open_issues_count": 32,
     "forks_count": 47
   },
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 15260,
-    "open_issues_count": 430,
-    "forks_count": 833
+    "stargazers_count": 15282,
+    "open_issues_count": 436,
+    "forks_count": 835
   },
   {
     "full_name": "squalrus/gdd",
@@ -110,7 +116,7 @@
   {
     "full_name": "restqa/restqa",
     "stargazers_count": 55,
-    "open_issues_count": 17,
+    "open_issues_count": 16,
     "forks_count": 8
   },
   {
@@ -127,8 +133,8 @@
   },
   {
     "full_name": "erxes/erxes",
-    "stargazers_count": 2620,
-    "open_issues_count": 546,
+    "stargazers_count": 2630,
+    "open_issues_count": 552,
     "forks_count": 975
   },
   {
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "Codeception/Codeception",
-    "stargazers_count": 4624,
-    "open_issues_count": 127,
-    "forks_count": 1312
+    "stargazers_count": 4625,
+    "open_issues_count": 125,
+    "forks_count": 1313
   },
   {
     "full_name": "jsumners/alfred-emoji",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 48894,
-    "open_issues_count": 265,
-    "forks_count": 12540
+    "stargazers_count": 49000,
+    "open_issues_count": 267,
+    "forks_count": 12596
   },
   {
     "full_name": "sindresorhus/ow",
-    "stargazers_count": 3666,
+    "stargazers_count": 3669,
     "open_issues_count": 36,
     "forks_count": 97
   },
   {
     "full_name": "danger/danger-js",
-    "stargazers_count": 4738,
-    "open_issues_count": 153,
-    "forks_count": 348
-  },
-  {
-    "full_name": "mwilber/the-legend-of-zeta",
-    "stargazers_count": 13,
-    "open_issues_count": 24,
-    "forks_count": 4
+    "stargazers_count": 4760,
+    "open_issues_count": 154,
+    "forks_count": 349
   }
 ]
