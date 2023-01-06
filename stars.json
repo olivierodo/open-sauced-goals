@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "atalent-labs/human-web-token",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "mfornos/awesome-microservices",
+    "stargazers_count": 11728,
+    "open_issues_count": 6,
+    "forks_count": 1708
+  },
+  {
     "full_name": "victoria-lo/TAPI",
     "stargazers_count": 34,
     "open_issues_count": 1,
@@ -25,15 +37,15 @@
   },
   {
     "full_name": "marmelab/awesome-rest",
-    "stargazers_count": 3254,
+    "stargazers_count": 3259,
     "open_issues_count": 17,
     "forks_count": 397
   },
   {
     "full_name": "atinfo/awesome-test-automation",
-    "stargazers_count": 5457,
+    "stargazers_count": 5464,
     "open_issues_count": 49,
-    "forks_count": 1323
+    "forks_count": 1324
   },
   {
     "full_name": "HelloYeew/mamizu-api",
@@ -43,27 +55,27 @@
   },
   {
     "full_name": "impira/docquery",
-    "stargazers_count": 1234,
-    "open_issues_count": 18,
+    "stargazers_count": 1236,
+    "open_issues_count": 19,
     "forks_count": 54
   },
   {
     "full_name": "bcoe/c8",
-    "stargazers_count": 1600,
-    "open_issues_count": 84,
+    "stargazers_count": 1604,
+    "open_issues_count": 85,
     "forks_count": 72
   },
   {
     "full_name": "andriisoldatenko/awesome-performance-testing",
-    "stargazers_count": 130,
+    "stargazers_count": 131,
     "open_issues_count": 2,
     "forks_count": 22
   },
   {
     "full_name": "enaqx/awesome-pentest",
-    "stargazers_count": 17483,
+    "stargazers_count": 17499,
     "open_issues_count": 38,
-    "forks_count": 4127
+    "forks_count": 4125
   },
   {
     "full_name": "AlirieGray/da-state-manager-backend",
@@ -85,7 +97,7 @@
   },
   {
     "full_name": "techfort/LokiJS",
-    "stargazers_count": 6367,
+    "stargazers_count": 6370,
     "open_issues_count": 21,
     "forks_count": 488
   },
@@ -109,21 +121,21 @@
   },
   {
     "full_name": "codex-team/editor.js",
-    "stargazers_count": 21136,
-    "open_issues_count": 469,
+    "stargazers_count": 21170,
+    "open_issues_count": 468,
     "forks_count": 1650
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 18663,
+    "stargazers_count": 18695,
     "open_issues_count": 0,
-    "forks_count": 1014
+    "forks_count": 1016
   },
   {
     "full_name": "deckgo/deckdeckgo",
     "stargazers_count": 1537,
-    "open_issues_count": 103,
-    "forks_count": 164
+    "open_issues_count": 107,
+    "forks_count": 165
   },
   {
     "full_name": "npm/hosted-git-info",
@@ -133,13 +145,13 @@
   },
   {
     "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 14080,
+    "stargazers_count": 14119,
     "open_issues_count": 2,
-    "forks_count": 1146
+    "forks_count": 1152
   },
   {
     "full_name": "drawrowfly/instagram-scraper",
-    "stargazers_count": 386,
+    "stargazers_count": 388,
     "open_issues_count": 33,
     "forks_count": 47
   },
@@ -151,8 +163,8 @@
   },
   {
     "full_name": "redwoodjs/redwood",
-    "stargazers_count": 15499,
-    "open_issues_count": 440,
+    "stargazers_count": 15514,
+    "open_issues_count": 438,
     "forks_count": 838
   },
   {
@@ -166,17 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "restqa/restqa",
-    "stargazers_count": 56,
-    "open_issues_count": 22,
-    "forks_count": 9
-  },
-  {
-    "full_name": "restqa/cucumber-export",
-    "stargazers_count": 12,
-    "open_issues_count": 16,
-    "forks_count": 0
   }
 ]
