@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "goabstract/Awesome-Design-Tools",
+    "stargazers_count": 27438,
+    "open_issues_count": 76,
+    "forks_count": 1959
+  },
+  {
+    "full_name": "papers-we-love/papers-we-love",
+    "stargazers_count": 68778,
+    "open_issues_count": 14,
+    "forks_count": 5058
+  },
+  {
+    "full_name": "marp-team/marp",
+    "stargazers_count": 5370,
+    "open_issues_count": 1,
+    "forks_count": 103
+  },
+  {
+    "full_name": "charmbracelet/vhs",
+    "stargazers_count": 9311,
+    "open_issues_count": 49,
+    "forks_count": 142
+  },
+  {
+    "full_name": "timlrx/tailwind-nextjs-starter-blog",
+    "stargazers_count": 4014,
+    "open_issues_count": 28,
+    "forks_count": 994
+  },
+  {
     "full_name": "atalent-labs/404-links",
     "stargazers_count": 11,
     "open_issues_count": 0,
@@ -13,9 +43,9 @@
   },
   {
     "full_name": "mfornos/awesome-microservices",
-    "stargazers_count": 11771,
+    "stargazers_count": 11780,
     "open_issues_count": 6,
-    "forks_count": 1709
+    "forks_count": 1710
   },
   {
     "full_name": "victoria-lo/TAPI",
@@ -37,19 +67,19 @@
   },
   {
     "full_name": "ZoranPandovski/awesome-testing-tools",
-    "stargazers_count": 114,
+    "stargazers_count": 116,
     "open_issues_count": 6,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "marmelab/awesome-rest",
-    "stargazers_count": 3279,
+    "stargazers_count": 3283,
     "open_issues_count": 17,
-    "forks_count": 395
+    "forks_count": 396
   },
   {
     "full_name": "atinfo/awesome-test-automation",
-    "stargazers_count": 5500,
+    "stargazers_count": 5501,
     "open_issues_count": 50,
     "forks_count": 1332
   },
@@ -61,13 +91,13 @@
   },
   {
     "full_name": "impira/docquery",
-    "stargazers_count": 1264,
+    "stargazers_count": 1267,
     "open_issues_count": 19,
-    "forks_count": 59
+    "forks_count": 60
   },
   {
     "full_name": "bcoe/c8",
-    "stargazers_count": 1623,
+    "stargazers_count": 1626,
     "open_issues_count": 87,
     "forks_count": 75
   },
@@ -79,9 +109,9 @@
   },
   {
     "full_name": "enaqx/awesome-pentest",
-    "stargazers_count": 17610,
+    "stargazers_count": 17625,
     "open_issues_count": 39,
-    "forks_count": 4133
+    "forks_count": 4135
   },
   {
     "full_name": "AlirieGray/da-state-manager-backend",
@@ -103,7 +133,7 @@
   },
   {
     "full_name": "techfort/LokiJS",
-    "stargazers_count": 6388,
+    "stargazers_count": 6389,
     "open_issues_count": 22,
     "forks_count": 488
   },
@@ -127,56 +157,26 @@
   },
   {
     "full_name": "codex-team/editor.js",
-    "stargazers_count": 21333,
-    "open_issues_count": 483,
-    "forks_count": 1664
+    "stargazers_count": 21355,
+    "open_issues_count": 484,
+    "forks_count": 1668
   },
   {
     "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 18930,
-    "open_issues_count": 0,
-    "forks_count": 1025
+    "stargazers_count": 18948,
+    "open_issues_count": 1,
+    "forks_count": 1028
   },
   {
     "full_name": "deckgo/deckdeckgo",
-    "stargazers_count": 1544,
+    "stargazers_count": 1545,
     "open_issues_count": 109,
     "forks_count": 165
   },
   {
     "full_name": "npm/hosted-git-info",
-    "stargazers_count": 204,
+    "stargazers_count": 203,
     "open_issues_count": 5,
-    "forks_count": 102
-  },
-  {
-    "full_name": "karanpratapsingh/system-design",
-    "stargazers_count": 14306,
-    "open_issues_count": 2,
-    "forks_count": 1185
-  },
-  {
-    "full_name": "drawrowfly/instagram-scraper",
-    "stargazers_count": 394,
-    "open_issues_count": 34,
-    "forks_count": 49
-  },
-  {
-    "full_name": "rkusa/pdfjs",
-    "stargazers_count": 615,
-    "open_issues_count": 64,
-    "forks_count": 133
-  },
-  {
-    "full_name": "redwoodjs/redwood",
-    "stargazers_count": 15617,
-    "open_issues_count": 397,
-    "forks_count": 846
-  },
-  {
-    "full_name": "squalrus/gdd",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 5
+    "forks_count": 101
   }
 ]
