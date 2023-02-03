@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "bregman-arie/devops-exercises",
+    "stargazers_count": 39149,
+    "open_issues_count": 18,
+    "forks_count": 8622
+  },
+  {
+    "full_name": "andrewbaisden/dragonball-character-database",
+    "stargazers_count": 16,
+    "open_issues_count": 17,
+    "forks_count": 10
+  },
+  {
     "full_name": "ionic-team/capacitor-starters",
-    "stargazers_count": 29,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 31,
+    "open_issues_count": 1,
+    "forks_count": 1
   },
   {
     "full_name": "dkarter/alfred-switch-audio",
@@ -25,45 +37,45 @@
   },
   {
     "full_name": "atalent-labs/404-links",
-    "stargazers_count": 11,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "goabstract/Awesome-Design-Tools",
-    "stargazers_count": 27487,
-    "open_issues_count": 76,
-    "forks_count": 1959
+    "stargazers_count": 27516,
+    "open_issues_count": 77,
+    "forks_count": 1961
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 69211,
-    "open_issues_count": 15,
-    "forks_count": 5086
+    "stargazers_count": 69372,
+    "open_issues_count": 16,
+    "forks_count": 5092
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 5438,
+    "stargazers_count": 5485,
     "open_issues_count": 0,
     "forks_count": 104
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 9351,
-    "open_issues_count": 49,
+    "stargazers_count": 9380,
+    "open_issues_count": 50,
     "forks_count": 140
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 4034,
+    "stargazers_count": 4056,
     "open_issues_count": 31,
-    "forks_count": 1001
+    "forks_count": 1002
   },
   {
     "full_name": "mfornos/awesome-microservices",
-    "stargazers_count": 11789,
-    "open_issues_count": 6,
-    "forks_count": 1711
+    "stargazers_count": 11797,
+    "open_issues_count": 3,
+    "forks_count": 1713
   },
   {
     "full_name": "victoria-lo/TAPI",
@@ -85,15 +97,15 @@
   },
   {
     "full_name": "marmelab/awesome-rest",
-    "stargazers_count": 3287,
+    "stargazers_count": 3288,
     "open_issues_count": 17,
     "forks_count": 396
   },
   {
     "full_name": "atinfo/awesome-test-automation",
-    "stargazers_count": 5509,
+    "stargazers_count": 5513,
     "open_issues_count": 50,
-    "forks_count": 1332
+    "forks_count": 1333
   },
   {
     "full_name": "HelloYeew/mamizu-api",
@@ -103,27 +115,27 @@
   },
   {
     "full_name": "impira/docquery",
-    "stargazers_count": 1274,
-    "open_issues_count": 22,
-    "forks_count": 60
+    "stargazers_count": 1276,
+    "open_issues_count": 21,
+    "forks_count": 61
   },
   {
     "full_name": "bcoe/c8",
-    "stargazers_count": 1629,
-    "open_issues_count": 82,
-    "forks_count": 75
+    "stargazers_count": 1632,
+    "open_issues_count": 83,
+    "forks_count": 77
   },
   {
     "full_name": "andriisoldatenko/awesome-performance-testing",
-    "stargazers_count": 132,
+    "stargazers_count": 133,
     "open_issues_count": 2,
     "forks_count": 22
   },
   {
     "full_name": "enaqx/awesome-pentest",
-    "stargazers_count": 17714,
+    "stargazers_count": 17735,
     "open_issues_count": 39,
-    "forks_count": 4137
+    "forks_count": 4142
   },
   {
     "full_name": "AlirieGray/da-state-manager-backend",
@@ -133,8 +145,8 @@
   },
   {
     "full_name": "open-sauced/api.opensauced.pizza",
-    "stargazers_count": 16,
-    "open_issues_count": 21,
+    "stargazers_count": 15,
+    "open_issues_count": 20,
     "forks_count": 7
   },
   {
@@ -145,7 +157,7 @@
   },
   {
     "full_name": "techfort/LokiJS",
-    "stargazers_count": 6389,
+    "stargazers_count": 6390,
     "open_issues_count": 22,
     "forks_count": 488
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 4
-  },
-  {
-    "full_name": "codex-team/editor.js",
-    "stargazers_count": 21386,
-    "open_issues_count": 483,
-    "forks_count": 1677
-  },
-  {
-    "full_name": "kuchin/awesome-cto",
-    "stargazers_count": 18960,
-    "open_issues_count": 1,
-    "forks_count": 1033
   }
 ]
