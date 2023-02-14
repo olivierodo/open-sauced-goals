@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "shieldfy/API-Security-Checklist",
+    "stargazers_count": 20185,
+    "open_issues_count": 13,
+    "forks_count": 2417
+  },
+  {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 80198,
-    "open_issues_count": 553,
-    "forks_count": 17922
+    "stargazers_count": 80653,
+    "open_issues_count": 552,
+    "forks_count": 17977
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 39646,
+    "stargazers_count": 39780,
     "open_issues_count": 11,
-    "forks_count": 8707
+    "forks_count": 8745
   },
   {
     "full_name": "andrewbaisden/dragonball-character-database",
@@ -20,8 +26,8 @@
   {
     "full_name": "ionic-team/capacitor-starters",
     "stargazers_count": 31,
-    "open_issues_count": 0,
-    "forks_count": 1
+    "open_issues_count": 1,
+    "forks_count": 2
   },
   {
     "full_name": "dkarter/alfred-switch-audio",
@@ -44,48 +50,48 @@
   {
     "full_name": "atalent-labs/404-links",
     "stargazers_count": 10,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "goabstract/Awesome-Design-Tools",
-    "stargazers_count": 27589,
+    "stargazers_count": 27619,
     "open_issues_count": 78,
     "forks_count": 1960
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 69563,
+    "stargazers_count": 69659,
     "open_issues_count": 17,
-    "forks_count": 5102
+    "forks_count": 5104
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 5565,
+    "stargazers_count": 5591,
     "open_issues_count": 0,
-    "forks_count": 105
+    "forks_count": 106
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 9477,
-    "open_issues_count": 47,
-    "forks_count": 141
+    "stargazers_count": 9508,
+    "open_issues_count": 48,
+    "forks_count": 142
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 4100,
-    "open_issues_count": 29,
-    "forks_count": 1021
+    "stargazers_count": 4110,
+    "open_issues_count": 31,
+    "forks_count": 1026
   },
   {
     "full_name": "mfornos/awesome-microservices",
-    "stargazers_count": 11861,
+    "stargazers_count": 11879,
     "open_issues_count": 3,
-    "forks_count": 1719
+    "forks_count": 1718
   },
   {
     "full_name": "victoria-lo/TAPI",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 1,
     "forks_count": 8
   },
@@ -103,15 +109,15 @@
   },
   {
     "full_name": "marmelab/awesome-rest",
-    "stargazers_count": 3298,
+    "stargazers_count": 3301,
     "open_issues_count": 15,
     "forks_count": 396
   },
   {
     "full_name": "atinfo/awesome-test-automation",
-    "stargazers_count": 5527,
+    "stargazers_count": 5533,
     "open_issues_count": 50,
-    "forks_count": 1336
+    "forks_count": 1341
   },
   {
     "full_name": "HelloYeew/mamizu-api",
@@ -121,27 +127,27 @@
   },
   {
     "full_name": "impira/docquery",
-    "stargazers_count": 1285,
+    "stargazers_count": 1289,
     "open_issues_count": 22,
     "forks_count": 64
   },
   {
     "full_name": "bcoe/c8",
-    "stargazers_count": 1639,
+    "stargazers_count": 1644,
     "open_issues_count": 85,
     "forks_count": 78
   },
   {
     "full_name": "andriisoldatenko/awesome-performance-testing",
-    "stargazers_count": 134,
+    "stargazers_count": 135,
     "open_issues_count": 2,
     "forks_count": 22
   },
   {
     "full_name": "enaqx/awesome-pentest",
-    "stargazers_count": 17773,
+    "stargazers_count": 17793,
     "open_issues_count": 39,
-    "forks_count": 4144
+    "forks_count": 4150
   },
   {
     "full_name": "AlirieGray/da-state-manager-backend",
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "open-sauced/api.opensauced.pizza",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 20,
     "forks_count": 7
   },
   {
     "full_name": "bdougie/awesome-black-developers",
-    "stargazers_count": 212,
+    "stargazers_count": 217,
     "open_issues_count": 1,
     "forks_count": 22
   },
   {
     "full_name": "techfort/LokiJS",
-    "stargazers_count": 6393,
+    "stargazers_count": 6394,
     "open_issues_count": 22,
-    "forks_count": 490
+    "forks_count": 489
   },
   {
     "full_name": "isaiahmoran/express-example",
     "stargazers_count": 1,
     "open_issues_count": 1,
     "forks_count": 1
-  },
-  {
-    "full_name": "GreenField-Org/ultracrewapi",
-    "stargazers_count": 3,
-    "open_issues_count": 6,
-    "forks_count": 0
   }
 ]
