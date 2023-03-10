@@ -1,27 +1,27 @@
 [
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 38228,
-    "open_issues_count": 214,
-    "forks_count": 4390
+    "stargazers_count": 40251,
+    "open_issues_count": 167,
+    "forks_count": 4667
   },
   {
     "full_name": "shieldfy/API-Security-Checklist",
-    "stargazers_count": 20567,
+    "stargazers_count": 20598,
     "open_issues_count": 12,
-    "forks_count": 2464
+    "forks_count": 2465
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 83822,
-    "open_issues_count": 546,
-    "forks_count": 18377
+    "stargazers_count": 84230,
+    "open_issues_count": 560,
+    "forks_count": 18430
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 41079,
-    "open_issues_count": 16,
-    "forks_count": 8973
+    "stargazers_count": 41224,
+    "open_issues_count": 17,
+    "forks_count": 9004
   },
   {
     "full_name": "andrewbaisden/dragonball-character-database",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "dkarter/alfred-switch-audio",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -56,42 +56,42 @@
   {
     "full_name": "atalent-labs/404-links",
     "stargazers_count": 11,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "goabstract/Awesome-Design-Tools",
-    "stargazers_count": 27819,
+    "stargazers_count": 27850,
     "open_issues_count": 77,
-    "forks_count": 1960
+    "forks_count": 1959
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 70195,
+    "stargazers_count": 70274,
     "open_issues_count": 19,
-    "forks_count": 5115
+    "forks_count": 5117
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 5704,
+    "stargazers_count": 5722,
     "open_issues_count": 0,
     "forks_count": 106
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 9851,
-    "open_issues_count": 47,
-    "forks_count": 151
+    "stargazers_count": 9882,
+    "open_issues_count": 45,
+    "forks_count": 149
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 4229,
-    "open_issues_count": 34,
-    "forks_count": 1054
+    "stargazers_count": 4244,
+    "open_issues_count": 35,
+    "forks_count": 1062
   },
   {
     "full_name": "mfornos/awesome-microservices",
-    "stargazers_count": 11954,
+    "stargazers_count": 11961,
     "open_issues_count": 3,
     "forks_count": 1721
   },
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "ZoranPandovski/awesome-testing-tools",
-    "stargazers_count": 120,
+    "stargazers_count": 119,
     "open_issues_count": 6,
     "forks_count": 50
   },
   {
     "full_name": "marmelab/awesome-rest",
-    "stargazers_count": 3309,
+    "stargazers_count": 3313,
     "open_issues_count": 15,
-    "forks_count": 397
+    "forks_count": 398
   },
   {
     "full_name": "atinfo/awesome-test-automation",
-    "stargazers_count": 5567,
+    "stargazers_count": 5570,
     "open_issues_count": 51,
-    "forks_count": 1343
+    "forks_count": 1344
   },
   {
     "full_name": "HelloYeew/mamizu-api",
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "impira/docquery",
-    "stargazers_count": 1309,
-    "open_issues_count": 22,
+    "stargazers_count": 1311,
+    "open_issues_count": 23,
     "forks_count": 68
   },
   {
     "full_name": "bcoe/c8",
-    "stargazers_count": 1666,
+    "stargazers_count": 1670,
     "open_issues_count": 79,
     "forks_count": 77
   },
@@ -151,8 +151,8 @@
   },
   {
     "full_name": "enaqx/awesome-pentest",
-    "stargazers_count": 17991,
-    "open_issues_count": 41,
+    "stargazers_count": 18011,
+    "open_issues_count": 42,
     "forks_count": 4162
   },
   {
@@ -164,18 +164,18 @@
   {
     "full_name": "open-sauced/api.opensauced.pizza",
     "stargazers_count": 17,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 7
   },
   {
     "full_name": "bdougie/awesome-black-developers",
-    "stargazers_count": 220,
+    "stargazers_count": 222,
     "open_issues_count": 1,
     "forks_count": 21
   },
   {
     "full_name": "techfort/LokiJS",
-    "stargazers_count": 6417,
+    "stargazers_count": 6420,
     "open_issues_count": 22,
     "forks_count": 490
   }
