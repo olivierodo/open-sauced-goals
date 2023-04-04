@@ -1,33 +1,33 @@
 [
   {
     "full_name": "restqa/restqa",
-    "stargazers_count": 69,
-    "open_issues_count": 23,
-    "forks_count": 12
+    "stargazers_count": 70,
+    "open_issues_count": 22,
+    "forks_count": 11
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 56712,
-    "open_issues_count": 209,
-    "forks_count": 6712
+    "stargazers_count": 59464,
+    "open_issues_count": 221,
+    "forks_count": 7131
   },
   {
     "full_name": "shieldfy/API-Security-Checklist",
-    "stargazers_count": 20681,
-    "open_issues_count": 11,
-    "forks_count": 2473
+    "stargazers_count": 20689,
+    "open_issues_count": 12,
+    "forks_count": 2477
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 88808,
-    "open_issues_count": 625,
-    "forks_count": 19065
+    "stargazers_count": 89865,
+    "open_issues_count": 634,
+    "forks_count": 19178
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 41864,
-    "open_issues_count": 14,
-    "forks_count": 9228
+    "stargazers_count": 41959,
+    "open_issues_count": 21,
+    "forks_count": 9259
   },
   {
     "full_name": "andrewbaisden/dragonball-character-database",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "ionic-team/capacitor-starters",
-    "stargazers_count": 40,
+    "stargazers_count": 42,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "dkarter/alfred-switch-audio",
-    "stargazers_count": 15,
+    "stargazers_count": 18,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -67,39 +67,39 @@
   },
   {
     "full_name": "goabstract/Awesome-Design-Tools",
-    "stargazers_count": 28009,
-    "open_issues_count": 76,
-    "forks_count": 1961
+    "stargazers_count": 28043,
+    "open_issues_count": 77,
+    "forks_count": 1964
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 70834,
-    "open_issues_count": 18,
-    "forks_count": 5124
+    "stargazers_count": 70949,
+    "open_issues_count": 13,
+    "forks_count": 5132
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 5805,
+    "stargazers_count": 5817,
     "open_issues_count": 0,
     "forks_count": 109
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 10086,
-    "open_issues_count": 43,
+    "stargazers_count": 10112,
+    "open_issues_count": 41,
     "forks_count": 158
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 4400,
-    "open_issues_count": 41,
-    "forks_count": 1095
+    "stargazers_count": 4435,
+    "open_issues_count": 42,
+    "forks_count": 1108
   },
   {
     "full_name": "mfornos/awesome-microservices",
-    "stargazers_count": 12025,
+    "stargazers_count": 12033,
     "open_issues_count": 4,
-    "forks_count": 1724
+    "forks_count": 1727
   },
   {
     "full_name": "victoria-lo/TAPI",
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "marmelab/awesome-rest",
-    "stargazers_count": 3328,
+    "stargazers_count": 3332,
     "open_issues_count": 16,
     "forks_count": 399
   },
   {
     "full_name": "atinfo/awesome-test-automation",
-    "stargazers_count": 5601,
+    "stargazers_count": 5609,
     "open_issues_count": 51,
     "forks_count": 1349
   },
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "impira/docquery",
-    "stargazers_count": 1338,
-    "open_issues_count": 23,
+    "stargazers_count": 1344,
+    "open_issues_count": 24,
     "forks_count": 75
   },
   {
     "full_name": "bcoe/c8",
-    "stargazers_count": 1686,
-    "open_issues_count": 84,
-    "forks_count": 79
+    "stargazers_count": 1691,
+    "open_issues_count": 86,
+    "forks_count": 81
   },
   {
     "full_name": "andriisoldatenko/awesome-performance-testing",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "enaqx/awesome-pentest",
-    "stargazers_count": 18153,
+    "stargazers_count": 18177,
     "open_issues_count": 42,
-    "forks_count": 4178
+    "forks_count": 4181
   },
   {
     "full_name": "AlirieGray/da-state-manager-backend",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "bdougie/awesome-black-developers",
-    "stargazers_count": 223,
+    "stargazers_count": 224,
     "open_issues_count": 1,
     "forks_count": 21
   }
