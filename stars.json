@@ -13,27 +13,27 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 71247,
+    "stargazers_count": 72061,
     "open_issues_count": 248,
-    "forks_count": 8932
+    "forks_count": 9065
   },
   {
     "full_name": "shieldfy/API-Security-Checklist",
-    "stargazers_count": 20773,
+    "stargazers_count": 20778,
     "open_issues_count": 12,
-    "forks_count": 2489
+    "forks_count": 2493
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 97307,
-    "open_issues_count": 689,
-    "forks_count": 20135
+    "stargazers_count": 97683,
+    "open_issues_count": 672,
+    "forks_count": 20195
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 42722,
-    "open_issues_count": 19,
-    "forks_count": 9488
+    "stargazers_count": 42843,
+    "open_issues_count": 18,
+    "forks_count": 9524
   },
   {
     "full_name": "andrewbaisden/dragonball-character-database",
@@ -45,7 +45,7 @@
     "full_name": "ionic-team/capacitor-starters",
     "stargazers_count": 44,
     "open_issues_count": 0,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "dkarter/alfred-switch-audio",
@@ -73,37 +73,37 @@
   },
   {
     "full_name": "goabstract/Awesome-Design-Tools",
-    "stargazers_count": 28269,
+    "stargazers_count": 28298,
     "open_issues_count": 77,
     "forks_count": 1968
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 71766,
-    "open_issues_count": 16,
-    "forks_count": 5155
+    "stargazers_count": 71834,
+    "open_issues_count": 1,
+    "forks_count": 5154
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 5915,
+    "stargazers_count": 5932,
     "open_issues_count": 0,
-    "forks_count": 111
+    "forks_count": 112
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 10662,
-    "open_issues_count": 43,
-    "forks_count": 166
+    "stargazers_count": 10699,
+    "open_issues_count": 45,
+    "forks_count": 167
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 4594,
+    "stargazers_count": 4607,
     "open_issues_count": 45,
-    "forks_count": 1160
+    "forks_count": 1164
   },
   {
     "full_name": "mfornos/awesome-microservices",
-    "stargazers_count": 12108,
+    "stargazers_count": 12117,
     "open_issues_count": 4,
     "forks_count": 1730
   },
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "ZoranPandovski/awesome-testing-tools",
-    "stargazers_count": 125,
+    "stargazers_count": 126,
     "open_issues_count": 6,
     "forks_count": 52
   },
   {
     "full_name": "marmelab/awesome-rest",
-    "stargazers_count": 3351,
+    "stargazers_count": 3354,
     "open_issues_count": 15,
     "forks_count": 402
   },
   {
     "full_name": "atinfo/awesome-test-automation",
-    "stargazers_count": 5660,
-    "open_issues_count": 52,
-    "forks_count": 1354
+    "stargazers_count": 5667,
+    "open_issues_count": 53,
+    "forks_count": 1355
   },
   {
     "full_name": "HelloYeew/mamizu-api",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "impira/docquery",
-    "stargazers_count": 1385,
-    "open_issues_count": 26,
-    "forks_count": 77
+    "stargazers_count": 1387,
+    "open_issues_count": 25,
+    "forks_count": 78
   },
   {
     "full_name": "bcoe/c8",
-    "stargazers_count": 1717,
-    "open_issues_count": 90,
-    "forks_count": 81
+    "stargazers_count": 1723,
+    "open_issues_count": 92,
+    "forks_count": 82
   },
   {
     "full_name": "andriisoldatenko/awesome-performance-testing",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "enaqx/awesome-pentest",
-    "stargazers_count": 18371,
+    "stargazers_count": 18385,
     "open_issues_count": 41,
-    "forks_count": 4205
+    "forks_count": 4203
   },
   {
     "full_name": "AlirieGray/da-state-manager-backend",
@@ -176,7 +176,7 @@
   {
     "full_name": "open-sauced/api.opensauced.pizza",
     "stargazers_count": 17,
-    "open_issues_count": 23,
+    "open_issues_count": 21,
     "forks_count": 8
   }
 ]
