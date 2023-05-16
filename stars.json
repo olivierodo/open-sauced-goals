@@ -1,9 +1,9 @@
 [
   {
     "full_name": "pomber/stargazer",
-    "stargazers_count": 945,
+    "stargazers_count": 946,
     "open_issues_count": 6,
-    "forks_count": 204
+    "forks_count": 203
   },
   {
     "full_name": "restqa/restqa",
@@ -13,33 +13,33 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 73787,
-    "open_issues_count": 260,
-    "forks_count": 9322
+    "stargazers_count": 74521,
+    "open_issues_count": 267,
+    "forks_count": 9449
   },
   {
     "full_name": "shieldfy/API-Security-Checklist",
-    "stargazers_count": 20812,
+    "stargazers_count": 20823,
     "open_issues_count": 12,
-    "forks_count": 2493
+    "forks_count": 2495
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 99030,
-    "open_issues_count": 698,
-    "forks_count": 20406
+    "stargazers_count": 99679,
+    "open_issues_count": 692,
+    "forks_count": 20447
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 43149,
-    "open_issues_count": 18,
-    "forks_count": 9574
+    "stargazers_count": 43217,
+    "open_issues_count": 17,
+    "forks_count": 9600
   },
   {
     "full_name": "andrewbaisden/dragonball-character-database",
     "stargazers_count": 17,
     "open_issues_count": 18,
-    "forks_count": 11
+    "forks_count": 10
   },
   {
     "full_name": "ionic-team/capacitor-starters",
@@ -73,37 +73,37 @@
   },
   {
     "full_name": "goabstract/Awesome-Design-Tools",
-    "stargazers_count": 28365,
+    "stargazers_count": 28394,
     "open_issues_count": 77,
     "forks_count": 1970
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 72027,
-    "open_issues_count": 1,
-    "forks_count": 5160
+    "stargazers_count": 72112,
+    "open_issues_count": 4,
+    "forks_count": 5162
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 5958,
+    "stargazers_count": 5964,
     "open_issues_count": 0,
     "forks_count": 110
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 10787,
-    "open_issues_count": 46,
+    "stargazers_count": 10817,
+    "open_issues_count": 42,
     "forks_count": 168
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 4636,
-    "open_issues_count": 46,
-    "forks_count": 1178
+    "stargazers_count": 4663,
+    "open_issues_count": 47,
+    "forks_count": 1180
   },
   {
     "full_name": "mfornos/awesome-microservices",
-    "stargazers_count": 12138,
+    "stargazers_count": 12148,
     "open_issues_count": 4,
     "forks_count": 1732
   },
@@ -121,20 +121,20 @@
   },
   {
     "full_name": "ZoranPandovski/awesome-testing-tools",
-    "stargazers_count": 126,
+    "stargazers_count": 127,
     "open_issues_count": 6,
-    "forks_count": 52
+    "forks_count": 53
   },
   {
     "full_name": "marmelab/awesome-rest",
-    "stargazers_count": 3357,
-    "open_issues_count": 15,
-    "forks_count": 402
+    "stargazers_count": 3359,
+    "open_issues_count": 11,
+    "forks_count": 401
   },
   {
     "full_name": "atinfo/awesome-test-automation",
     "stargazers_count": 5672,
-    "open_issues_count": 53,
+    "open_issues_count": 52,
     "forks_count": 1356
   },
   {
@@ -145,13 +145,13 @@
   },
   {
     "full_name": "impira/docquery",
-    "stargazers_count": 1393,
+    "stargazers_count": 1397,
     "open_issues_count": 25,
     "forks_count": 78
   },
   {
     "full_name": "bcoe/c8",
-    "stargazers_count": 1731,
+    "stargazers_count": 1733,
     "open_issues_count": 91,
     "forks_count": 82
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "enaqx/awesome-pentest",
-    "stargazers_count": 18421,
+    "stargazers_count": 18439,
     "open_issues_count": 40,
-    "forks_count": 4210
+    "forks_count": 4212
   },
   {
     "full_name": "AlirieGray/da-state-manager-backend",
@@ -176,7 +176,7 @@
   {
     "full_name": "open-sauced/api.opensauced.pizza",
     "stargazers_count": 17,
-    "open_issues_count": 19,
-    "forks_count": 8
+    "open_issues_count": 18,
+    "forks_count": 9
   }
 ]
