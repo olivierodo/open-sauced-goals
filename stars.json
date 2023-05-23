@@ -1,39 +1,45 @@
 [
   {
+    "full_name": "playsms/playsms",
+    "stargazers_count": 685,
+    "open_issues_count": 59,
+    "forks_count": 438
+  },
+  {
     "full_name": "pomber/stargazer",
-    "stargazers_count": 947,
+    "stargazers_count": 948,
     "open_issues_count": 6,
-    "forks_count": 204
+    "forks_count": 205
   },
   {
     "full_name": "restqa/restqa",
-    "stargazers_count": 73,
+    "stargazers_count": 72,
     "open_issues_count": 18,
     "forks_count": 13
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 75180,
-    "open_issues_count": 271,
-    "forks_count": 9564
+    "stargazers_count": 76149,
+    "open_issues_count": 268,
+    "forks_count": 9694
   },
   {
     "full_name": "shieldfy/API-Security-Checklist",
-    "stargazers_count": 20831,
+    "stargazers_count": 20846,
     "open_issues_count": 12,
-    "forks_count": 2495
+    "forks_count": 2496
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 100476,
-    "open_issues_count": 690,
-    "forks_count": 20526
+    "stargazers_count": 101164,
+    "open_issues_count": 697,
+    "forks_count": 20607
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 43258,
-    "open_issues_count": 18,
-    "forks_count": 9624
+    "stargazers_count": 43339,
+    "open_issues_count": 20,
+    "forks_count": 9650
   },
   {
     "full_name": "andrewbaisden/dragonball-character-database",
@@ -73,37 +79,37 @@
   },
   {
     "full_name": "goabstract/Awesome-Design-Tools",
-    "stargazers_count": 28418,
+    "stargazers_count": 28452,
     "open_issues_count": 77,
     "forks_count": 1972
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 72359,
+    "stargazers_count": 72801,
     "open_issues_count": 4,
-    "forks_count": 5196
+    "forks_count": 5298
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 5987,
+    "stargazers_count": 6003,
     "open_issues_count": 0,
-    "forks_count": 111
+    "forks_count": 112
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 10850,
-    "open_issues_count": 42,
-    "forks_count": 170
+    "stargazers_count": 10873,
+    "open_issues_count": 43,
+    "forks_count": 172
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 4677,
-    "open_issues_count": 47,
-    "forks_count": 1184
+    "stargazers_count": 4705,
+    "open_issues_count": 49,
+    "forks_count": 1189
   },
   {
     "full_name": "mfornos/awesome-microservices",
-    "stargazers_count": 12160,
+    "stargazers_count": 12179,
     "open_issues_count": 4,
     "forks_count": 1733
   },
@@ -121,21 +127,21 @@
   },
   {
     "full_name": "ZoranPandovski/awesome-testing-tools",
-    "stargazers_count": 128,
+    "stargazers_count": 130,
     "open_issues_count": 6,
     "forks_count": 53
   },
   {
     "full_name": "marmelab/awesome-rest",
-    "stargazers_count": 3363,
+    "stargazers_count": 3366,
     "open_issues_count": 11,
-    "forks_count": 401
+    "forks_count": 400
   },
   {
     "full_name": "atinfo/awesome-test-automation",
-    "stargazers_count": 5675,
-    "open_issues_count": 52,
-    "forks_count": 1358
+    "stargazers_count": 5680,
+    "open_issues_count": 53,
+    "forks_count": 1360
   },
   {
     "full_name": "HelloYeew/mamizu-api",
@@ -145,15 +151,15 @@
   },
   {
     "full_name": "impira/docquery",
-    "stargazers_count": 1400,
+    "stargazers_count": 1405,
     "open_issues_count": 25,
     "forks_count": 77
   },
   {
     "full_name": "bcoe/c8",
     "stargazers_count": 1736,
-    "open_issues_count": 91,
-    "forks_count": 82
+    "open_issues_count": 92,
+    "forks_count": 83
   },
   {
     "full_name": "andriisoldatenko/awesome-performance-testing",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "enaqx/awesome-pentest",
-    "stargazers_count": 18455,
+    "stargazers_count": 18471,
     "open_issues_count": 40,
-    "forks_count": 4215
+    "forks_count": 4221
   },
   {
     "full_name": "AlirieGray/da-state-manager-backend",
     "stargazers_count": 1,
     "open_issues_count": 3,
     "forks_count": 0
-  },
-  {
-    "full_name": "open-sauced/api.opensauced.pizza",
-    "stargazers_count": 17,
-    "open_issues_count": 18,
-    "forks_count": 9
   }
 ]
