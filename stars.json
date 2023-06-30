@@ -13,39 +13,39 @@
   },
   {
     "full_name": "pomber/stargazer",
-    "stargazers_count": 997,
+    "stargazers_count": 1080,
     "open_issues_count": 0,
-    "forks_count": 216
+    "forks_count": 225
   },
   {
     "full_name": "restqa/restqa",
     "stargazers_count": 72,
-    "open_issues_count": 19,
+    "open_issues_count": 20,
     "forks_count": 13
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 81705,
-    "open_issues_count": 279,
-    "forks_count": 10775
+    "stargazers_count": 82062,
+    "open_issues_count": 278,
+    "forks_count": 10865
   },
   {
     "full_name": "shieldfy/API-Security-Checklist",
-    "stargazers_count": 20977,
+    "stargazers_count": 20989,
     "open_issues_count": 12,
-    "forks_count": 2503
+    "forks_count": 2504
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 105130,
-    "open_issues_count": 728,
-    "forks_count": 21125
+    "stargazers_count": 105560,
+    "open_issues_count": 735,
+    "forks_count": 21177
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 44382,
+    "stargazers_count": 44447,
     "open_issues_count": 20,
-    "forks_count": 9932
+    "forks_count": 9947
   },
   {
     "full_name": "andrewbaisden/dragonball-character-database",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "ionic-team/capacitor-starters",
-    "stargazers_count": 45,
+    "stargazers_count": 46,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -85,39 +85,39 @@
   },
   {
     "full_name": "goabstract/Awesome-Design-Tools",
-    "stargazers_count": 28731,
+    "stargazers_count": 28747,
     "open_issues_count": 77,
-    "forks_count": 1983
+    "forks_count": 1984
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 73926,
+    "stargazers_count": 74477,
     "open_issues_count": 6,
-    "forks_count": 5406
+    "forks_count": 5519
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 6132,
+    "stargazers_count": 6146,
     "open_issues_count": 1,
     "forks_count": 113
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 11208,
+    "stargazers_count": 11230,
     "open_issues_count": 43,
-    "forks_count": 183
+    "forks_count": 184
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 4884,
-    "open_issues_count": 48,
-    "forks_count": 1213
+    "stargazers_count": 4895,
+    "open_issues_count": 47,
+    "forks_count": 1215
   },
   {
     "full_name": "mfornos/awesome-microservices",
-    "stargazers_count": 12263,
+    "stargazers_count": 12271,
     "open_issues_count": 4,
-    "forks_count": 1734
+    "forks_count": 1733
   },
   {
     "full_name": "victoria-lo/TAPI",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "marmelab/awesome-rest",
-    "stargazers_count": 3393,
+    "stargazers_count": 3396,
     "open_issues_count": 11,
     "forks_count": 402
   },
   {
     "full_name": "atinfo/awesome-test-automation",
-    "stargazers_count": 5755,
+    "stargazers_count": 5761,
     "open_issues_count": 55,
-    "forks_count": 1378
+    "forks_count": 1379
   },
   {
     "full_name": "HelloYeew/mamizu-api",
@@ -157,13 +157,13 @@
   },
   {
     "full_name": "impira/docquery",
-    "stargazers_count": 1447,
+    "stargazers_count": 1452,
     "open_issues_count": 26,
-    "forks_count": 84
+    "forks_count": 86
   },
   {
     "full_name": "bcoe/c8",
-    "stargazers_count": 1767,
+    "stargazers_count": 1768,
     "open_issues_count": 92,
     "forks_count": 83
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "enaqx/awesome-pentest",
-    "stargazers_count": 18668,
+    "stargazers_count": 18674,
     "open_issues_count": 40,
-    "forks_count": 4246
+    "forks_count": 4247
   }
 ]
