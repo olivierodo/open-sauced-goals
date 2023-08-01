@@ -7,15 +7,15 @@
   },
   {
     "full_name": "playsms/playsms",
-    "stargazers_count": 691,
+    "stargazers_count": 692,
     "open_issues_count": 61,
     "forks_count": 441
   },
   {
     "full_name": "pomber/stargazer",
-    "stargazers_count": 1116,
+    "stargazers_count": 1119,
     "open_issues_count": 0,
-    "forks_count": 229
+    "forks_count": 231
   },
   {
     "full_name": "restqa/restqa",
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 84789,
-    "open_issues_count": 288,
-    "forks_count": 11355
+    "stargazers_count": 85059,
+    "open_issues_count": 287,
+    "forks_count": 11401
   },
   {
     "full_name": "shieldfy/API-Security-Checklist",
-    "stargazers_count": 21092,
+    "stargazers_count": 21107,
     "open_issues_count": 12,
-    "forks_count": 2520
+    "forks_count": 2524
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 109120,
-    "open_issues_count": 730,
-    "forks_count": 21625
+    "stargazers_count": 109342,
+    "open_issues_count": 735,
+    "forks_count": 21664
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 44860,
-    "open_issues_count": 23,
-    "forks_count": 10102
+    "stargazers_count": 48457,
+    "open_issues_count": 27,
+    "forks_count": 10800
   },
   {
     "full_name": "andrewbaisden/dragonball-character-database",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "ionic-team/capacitor-starters",
-    "stargazers_count": 45,
+    "stargazers_count": 46,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "dkarter/alfred-switch-audio",
@@ -85,37 +85,37 @@
   },
   {
     "full_name": "goabstract/Awesome-Design-Tools",
-    "stargazers_count": 28969,
+    "stargazers_count": 28993,
     "open_issues_count": 79,
     "forks_count": 1988
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 75273,
-    "open_issues_count": 10,
-    "forks_count": 5610
+    "stargazers_count": 75362,
+    "open_issues_count": 11,
+    "forks_count": 5613
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 6221,
+    "stargazers_count": 6227,
     "open_issues_count": 2,
     "forks_count": 114
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 11431,
+    "stargazers_count": 11457,
     "open_issues_count": 44,
-    "forks_count": 187
+    "forks_count": 186
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 5099,
-    "open_issues_count": 13,
-    "forks_count": 1259
+    "stargazers_count": 5133,
+    "open_issues_count": 11,
+    "forks_count": 1268
   },
   {
     "full_name": "mfornos/awesome-microservices",
-    "stargazers_count": 12342,
+    "stargazers_count": 12351,
     "open_issues_count": 4,
     "forks_count": 1744
   },
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "ZoranPandovski/awesome-testing-tools",
-    "stargazers_count": 138,
+    "stargazers_count": 139,
     "open_issues_count": 6,
     "forks_count": 52
   },
   {
     "full_name": "marmelab/awesome-rest",
-    "stargazers_count": 3423,
-    "open_issues_count": 11,
-    "forks_count": 403
+    "stargazers_count": 3426,
+    "open_issues_count": 12,
+    "forks_count": 404
   },
   {
     "full_name": "atinfo/awesome-test-automation",
-    "stargazers_count": 5796,
+    "stargazers_count": 5802,
     "open_issues_count": 55,
-    "forks_count": 1372
+    "forks_count": 1375
   },
   {
     "full_name": "HelloYeew/mamizu-api",
@@ -159,24 +159,24 @@
     "full_name": "impira/docquery",
     "stargazers_count": 1485,
     "open_issues_count": 26,
-    "forks_count": 93
+    "forks_count": 94
   },
   {
     "full_name": "bcoe/c8",
-    "stargazers_count": 1784,
-    "open_issues_count": 96,
+    "stargazers_count": 1786,
+    "open_issues_count": 98,
     "forks_count": 83
   },
   {
     "full_name": "andriisoldatenko/awesome-performance-testing",
-    "stargazers_count": 144,
+    "stargazers_count": 146,
     "open_issues_count": 2,
     "forks_count": 23
   },
   {
     "full_name": "enaqx/awesome-pentest",
-    "stargazers_count": 18838,
+    "stargazers_count": 18861,
     "open_issues_count": 41,
-    "forks_count": 4265
+    "forks_count": 4267
   }
 ]
