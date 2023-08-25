@@ -1,51 +1,51 @@
 [
   {
     "full_name": "trekhleb/promote-your-next-startup",
-    "stargazers_count": 2000,
+    "stargazers_count": 1999,
     "open_issues_count": 5,
     "forks_count": 178
   },
   {
     "full_name": "playsms/playsms",
     "stargazers_count": 693,
-    "open_issues_count": 62,
+    "open_issues_count": 63,
     "forks_count": 442
   },
   {
     "full_name": "pomber/stargazer",
-    "stargazers_count": 1125,
+    "stargazers_count": 1142,
     "open_issues_count": 0,
-    "forks_count": 234
+    "forks_count": 235
   },
   {
     "full_name": "restqa/restqa",
-    "stargazers_count": 75,
+    "stargazers_count": 74,
     "open_issues_count": 18,
-    "forks_count": 13
+    "forks_count": 12
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 86849,
+    "stargazers_count": 87058,
     "open_issues_count": 294,
-    "forks_count": 11674
+    "forks_count": 11717
   },
   {
     "full_name": "shieldfy/API-Security-Checklist",
-    "stargazers_count": 21159,
+    "stargazers_count": 21167,
     "open_issues_count": 12,
-    "forks_count": 2532
+    "forks_count": 2533
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 110521,
-    "open_issues_count": 736,
-    "forks_count": 21935
+    "stargazers_count": 110664,
+    "open_issues_count": 758,
+    "forks_count": 21974
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 56475,
-    "open_issues_count": 45,
-    "forks_count": 11809
+    "stargazers_count": 56721,
+    "open_issues_count": 33,
+    "forks_count": 11859
   },
   {
     "full_name": "andrewbaisden/dragonball-character-database",
@@ -85,37 +85,37 @@
   },
   {
     "full_name": "goabstract/Awesome-Design-Tools",
-    "stargazers_count": 29140,
+    "stargazers_count": 29158,
     "open_issues_count": 80,
     "forks_count": 1989
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 75818,
+    "stargazers_count": 75880,
     "open_issues_count": 11,
-    "forks_count": 5638
+    "forks_count": 5640
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 6284,
+    "stargazers_count": 6290,
     "open_issues_count": 2,
     "forks_count": 113
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 11599,
-    "open_issues_count": 55,
+    "stargazers_count": 11627,
+    "open_issues_count": 52,
     "forks_count": 190
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 5287,
-    "open_issues_count": 10,
-    "forks_count": 1299
+    "stargazers_count": 5318,
+    "open_issues_count": 11,
+    "forks_count": 1309
   },
   {
     "full_name": "mfornos/awesome-microservices",
-    "stargazers_count": 12402,
+    "stargazers_count": 12405,
     "open_issues_count": 4,
     "forks_count": 1748
   },
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "ZoranPandovski/awesome-testing-tools",
-    "stargazers_count": 141,
+    "stargazers_count": 142,
     "open_issues_count": 6,
     "forks_count": 52
   },
   {
     "full_name": "marmelab/awesome-rest",
-    "stargazers_count": 3438,
+    "stargazers_count": 3439,
     "open_issues_count": 12,
     "forks_count": 405
   },
   {
     "full_name": "atinfo/awesome-test-automation",
-    "stargazers_count": 5820,
-    "open_issues_count": 55,
-    "forks_count": 1376
+    "stargazers_count": 5823,
+    "open_issues_count": 56,
+    "forks_count": 1377
   },
   {
     "full_name": "HelloYeew/mamizu-api",
@@ -157,13 +157,13 @@
   },
   {
     "full_name": "impira/docquery",
-    "stargazers_count": 1508,
+    "stargazers_count": 1510,
     "open_issues_count": 27,
     "forks_count": 95
   },
   {
     "full_name": "bcoe/c8",
-    "stargazers_count": 1798,
+    "stargazers_count": 1802,
     "open_issues_count": 100,
     "forks_count": 83
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "enaqx/awesome-pentest",
-    "stargazers_count": 19040,
+    "stargazers_count": 19050,
     "open_issues_count": 42,
-    "forks_count": 4288
+    "forks_count": 4291
   }
 ]
