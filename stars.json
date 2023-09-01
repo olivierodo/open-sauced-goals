@@ -1,21 +1,21 @@
 [
   {
     "full_name": "trekhleb/promote-your-next-startup",
-    "stargazers_count": 2001,
+    "stargazers_count": 2003,
     "open_issues_count": 5,
     "forks_count": 178
   },
   {
     "full_name": "playsms/playsms",
-    "stargazers_count": 693,
+    "stargazers_count": 694,
     "open_issues_count": 63,
     "forks_count": 442
   },
   {
     "full_name": "pomber/stargazer",
-    "stargazers_count": 1141,
-    "open_issues_count": 0,
-    "forks_count": 235
+    "stargazers_count": 1144,
+    "open_issues_count": 1,
+    "forks_count": 236
   },
   {
     "full_name": "restqa/restqa",
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 87305,
-    "open_issues_count": 292,
-    "forks_count": 11766
+    "stargazers_count": 87640,
+    "open_issues_count": 293,
+    "forks_count": 11810
   },
   {
     "full_name": "shieldfy/API-Security-Checklist",
-    "stargazers_count": 21175,
+    "stargazers_count": 21188,
     "open_issues_count": 12,
-    "forks_count": 2532
+    "forks_count": 2534
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 110855,
-    "open_issues_count": 773,
-    "forks_count": 22030
+    "stargazers_count": 111061,
+    "open_issues_count": 776,
+    "forks_count": 22056
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 56929,
+    "stargazers_count": 57140,
     "open_issues_count": 35,
-    "forks_count": 11904
+    "forks_count": 11989
   },
   {
     "full_name": "andrewbaisden/dragonball-character-database",
@@ -85,37 +85,37 @@
   },
   {
     "full_name": "goabstract/Awesome-Design-Tools",
-    "stargazers_count": 29191,
+    "stargazers_count": 29225,
     "open_issues_count": 80,
-    "forks_count": 1990
+    "forks_count": 1991
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 75968,
-    "open_issues_count": 11,
-    "forks_count": 5643
+    "stargazers_count": 76028,
+    "open_issues_count": 12,
+    "forks_count": 5646
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 6303,
+    "stargazers_count": 6313,
     "open_issues_count": 2,
     "forks_count": 113
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 11661,
-    "open_issues_count": 52,
-    "forks_count": 188
+    "stargazers_count": 11688,
+    "open_issues_count": 53,
+    "forks_count": 189
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 5354,
-    "open_issues_count": 13,
-    "forks_count": 1311
+    "stargazers_count": 5369,
+    "open_issues_count": 12,
+    "forks_count": 1316
   },
   {
     "full_name": "mfornos/awesome-microservices",
-    "stargazers_count": 12413,
+    "stargazers_count": 12417,
     "open_issues_count": 4,
     "forks_count": 1752
   },
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "marmelab/awesome-rest",
-    "stargazers_count": 3440,
+    "stargazers_count": 3442,
     "open_issues_count": 12,
     "forks_count": 406
   },
   {
     "full_name": "atinfo/awesome-test-automation",
-    "stargazers_count": 5828,
+    "stargazers_count": 5831,
     "open_issues_count": 55,
-    "forks_count": 1377
+    "forks_count": 1378
   },
   {
     "full_name": "HelloYeew/mamizu-api",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "impira/docquery",
-    "stargazers_count": 1510,
+    "stargazers_count": 1513,
     "open_issues_count": 27,
-    "forks_count": 95
+    "forks_count": 96
   },
   {
     "full_name": "bcoe/c8",
-    "stargazers_count": 1805,
-    "open_issues_count": 101,
+    "stargazers_count": 1806,
+    "open_issues_count": 102,
     "forks_count": 83
   },
   {
     "full_name": "andriisoldatenko/awesome-performance-testing",
-    "stargazers_count": 146,
+    "stargazers_count": 147,
     "open_issues_count": 2,
     "forks_count": 23
   },
   {
     "full_name": "enaqx/awesome-pentest",
-    "stargazers_count": 19074,
+    "stargazers_count": 19090,
     "open_issues_count": 42,
-    "forks_count": 4294
+    "forks_count": 4296
   }
 ]
