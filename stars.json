@@ -1,27 +1,45 @@
 [
   {
+    "full_name": "godkingjay/library-management-system-next-react",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "jonatasfernandespimenta/Obux",
+    "stargazers_count": 26,
+    "open_issues_count": 1,
+    "forks_count": 4
+  },
+  {
+    "full_name": "stefvndev/car-rental",
+    "stargazers_count": 133,
+    "open_issues_count": 4,
+    "forks_count": 46
+  },
+  {
     "full_name": "coqui-ai/TTS",
-    "stargazers_count": 26593,
-    "open_issues_count": 80,
-    "forks_count": 3042
+    "stargazers_count": 26694,
+    "open_issues_count": 71,
+    "forks_count": 3054
   },
   {
     "full_name": "ganeshrvel/openmtp",
-    "stargazers_count": 2924,
+    "stargazers_count": 2930,
     "open_issues_count": 91,
     "forks_count": 122
   },
   {
     "full_name": "caido/caido",
-    "stargazers_count": 669,
-    "open_issues_count": 333,
+    "stargazers_count": 671,
+    "open_issues_count": 329,
     "forks_count": 29
   },
   {
     "full_name": "monicahq/monica",
-    "stargazers_count": 20341,
-    "open_issues_count": 680,
-    "forks_count": 2066
+    "stargazers_count": 20361,
+    "open_issues_count": 681,
+    "forks_count": 2069
   },
   {
     "full_name": "davidsawyer/airbnb-price-per-night-correcter",
@@ -31,19 +49,19 @@
   },
   {
     "full_name": "trekhleb/promote-your-next-startup",
-    "stargazers_count": 2039,
+    "stargazers_count": 2040,
     "open_issues_count": 6,
     "forks_count": 181
   },
   {
     "full_name": "playsms/playsms",
-    "stargazers_count": 719,
+    "stargazers_count": 721,
     "open_issues_count": 61,
     "forks_count": 446
   },
   {
     "full_name": "pomber/stargazer",
-    "stargazers_count": 1223,
+    "stargazers_count": 1224,
     "open_issues_count": 2,
     "forks_count": 254
   },
@@ -55,27 +73,27 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 99405,
-    "open_issues_count": 289,
-    "forks_count": 13676
+    "stargazers_count": 99538,
+    "open_issues_count": 288,
+    "forks_count": 13706
   },
   {
     "full_name": "shieldfy/API-Security-Checklist",
-    "stargazers_count": 21737,
-    "open_issues_count": 14,
+    "stargazers_count": 21738,
+    "open_issues_count": 13,
     "forks_count": 2600
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 119955,
-    "open_issues_count": 965,
-    "forks_count": 24024
+    "stargazers_count": 120061,
+    "open_issues_count": 955,
+    "forks_count": 24060
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 61677,
-    "open_issues_count": 26,
-    "forks_count": 13366
+    "stargazers_count": 61752,
+    "open_issues_count": 27,
+    "forks_count": 13396
   },
   {
     "full_name": "andrewbaisden/dragonball-character-database",
@@ -115,39 +133,39 @@
   },
   {
     "full_name": "goabstract/Awesome-Design-Tools",
-    "stargazers_count": 31065,
+    "stargazers_count": 31107,
     "open_issues_count": 82,
-    "forks_count": 2050
+    "forks_count": 2052
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 81587,
+    "stargazers_count": 81657,
     "open_issues_count": 18,
-    "forks_count": 5939
+    "forks_count": 5946
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 6860,
-    "open_issues_count": 2,
+    "stargazers_count": 6873,
+    "open_issues_count": 1,
     "forks_count": 119
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 13089,
-    "open_issues_count": 75,
-    "forks_count": 219
+    "stargazers_count": 13116,
+    "open_issues_count": 76,
+    "forks_count": 218
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 6551,
-    "open_issues_count": 23,
-    "forks_count": 1612
+    "stargazers_count": 6567,
+    "open_issues_count": 24,
+    "forks_count": 1617
   },
   {
     "full_name": "mfornos/awesome-microservices",
-    "stargazers_count": 12766,
+    "stargazers_count": 12773,
     "open_issues_count": 2,
-    "forks_count": 1783
+    "forks_count": 1782
   },
   {
     "full_name": "victoria-lo/TAPI",
@@ -160,23 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 2,
     "forks_count": 0
-  },
-  {
-    "full_name": "ZoranPandovski/awesome-testing-tools",
-    "stargazers_count": 175,
-    "open_issues_count": 2,
-    "forks_count": 61
-  },
-  {
-    "full_name": "marmelab/awesome-rest",
-    "stargazers_count": 3498,
-    "open_issues_count": 11,
-    "forks_count": 406
-  },
-  {
-    "full_name": "atinfo/awesome-test-automation",
-    "stargazers_count": 6017,
-    "open_issues_count": 57,
-    "forks_count": 1401
   }
 ]
