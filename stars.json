@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "ramonszo/zuck.js",
+    "stargazers_count": 3661,
+    "open_issues_count": 18,
+    "forks_count": 316
+  },
+  {
     "full_name": "AlexChalakov/awesome-generative-ai-companies",
     "stargazers_count": 91,
     "open_issues_count": 0,
@@ -7,27 +13,27 @@
   },
   {
     "full_name": "swyxio/spark-joy",
-    "stargazers_count": 9298,
+    "stargazers_count": 9307,
     "open_issues_count": 14,
     "forks_count": 321
   },
   {
     "full_name": "MoyGcc/vid2avatar",
-    "stargazers_count": 1197,
+    "stargazers_count": 1198,
     "open_issues_count": 22,
     "forks_count": 102
   },
   {
     "full_name": "baptadn/photoshot",
-    "stargazers_count": 3390,
+    "stargazers_count": 3394,
     "open_issues_count": 10,
-    "forks_count": 416
+    "forks_count": 415
   },
   {
     "full_name": "CorentinTh/it-tools",
-    "stargazers_count": 18216,
-    "open_issues_count": 435,
-    "forks_count": 2155
+    "stargazers_count": 18295,
+    "open_issues_count": 443,
+    "forks_count": 2180
   },
   {
     "full_name": "akawashiro/jendeley",
@@ -37,27 +43,27 @@
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 48360,
-    "open_issues_count": 18,
-    "forks_count": 26465
+    "stargazers_count": 48498,
+    "open_issues_count": 6,
+    "forks_count": 26612
   },
   {
     "full_name": "steven2358/awesome-generative-ai",
-    "stargazers_count": 5143,
-    "open_issues_count": 69,
-    "forks_count": 561
+    "stargazers_count": 5160,
+    "open_issues_count": 66,
+    "forks_count": 566
   },
   {
     "full_name": "aishwaryanr/awesome-generative-ai-guide",
-    "stargazers_count": 5619,
+    "stargazers_count": 5735,
     "open_issues_count": 0,
-    "forks_count": 1154
+    "forks_count": 1184
   },
   {
     "full_name": "filipecalegario/awesome-generative-ai",
-    "stargazers_count": 2178,
+    "stargazers_count": 2184,
     "open_issues_count": 17,
-    "forks_count": 330
+    "forks_count": 331
   },
   {
     "full_name": "eduqg/PageStation-inspired-on-ps5-reactjs",
@@ -85,27 +91,27 @@
   },
   {
     "full_name": "coqui-ai/TTS",
-    "stargazers_count": 31531,
-    "open_issues_count": 96,
-    "forks_count": 3761
+    "stargazers_count": 31613,
+    "open_issues_count": 68,
+    "forks_count": 3775
   },
   {
     "full_name": "ganeshrvel/openmtp",
-    "stargazers_count": 3212,
-    "open_issues_count": 98,
+    "stargazers_count": 3220,
+    "open_issues_count": 99,
     "forks_count": 130
   },
   {
     "full_name": "caido/caido",
-    "stargazers_count": 934,
-    "open_issues_count": 435,
+    "stargazers_count": 936,
+    "open_issues_count": 437,
     "forks_count": 39
   },
   {
     "full_name": "monicahq/monica",
-    "stargazers_count": 21002,
-    "open_issues_count": 695,
-    "forks_count": 2089
+    "stargazers_count": 21011,
+    "open_issues_count": 694,
+    "forks_count": 2090
   },
   {
     "full_name": "davidsawyer/airbnb-price-per-night-correcter",
@@ -115,7 +121,7 @@
   },
   {
     "full_name": "trekhleb/promote-your-next-startup",
-    "stargazers_count": 2086,
+    "stargazers_count": 2087,
     "open_issues_count": 6,
     "forks_count": 182
   },
@@ -123,7 +129,7 @@
     "full_name": "playsms/playsms",
     "stargazers_count": 739,
     "open_issues_count": 60,
-    "forks_count": 449
+    "forks_count": 448
   },
   {
     "full_name": "pomber/stargazer",
@@ -139,27 +145,27 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 106464,
+    "stargazers_count": 106597,
     "open_issues_count": 290,
-    "forks_count": 14534
+    "forks_count": 14562
   },
   {
     "full_name": "shieldfy/API-Security-Checklist",
-    "stargazers_count": 22170,
+    "stargazers_count": 22177,
     "open_issues_count": 13,
-    "forks_count": 2569
+    "forks_count": 2568
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 128068,
-    "open_issues_count": 1132,
-    "forks_count": 25399
+    "stargazers_count": 128250,
+    "open_issues_count": 1137,
+    "forks_count": 25439
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 64607,
-    "open_issues_count": 27,
-    "forks_count": 14243
+    "stargazers_count": 64652,
+    "open_issues_count": 28,
+    "forks_count": 14268
   },
   {
     "full_name": "andrewbaisden/dragonball-character-database",
@@ -172,11 +178,5 @@
     "stargazers_count": 61,
     "open_issues_count": 1,
     "forks_count": 9
-  },
-  {
-    "full_name": "dkarter/alfred-switch-audio",
-    "stargazers_count": 32,
-    "open_issues_count": 5,
-    "forks_count": 0
   }
 ]
