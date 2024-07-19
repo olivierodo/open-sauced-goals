@@ -1,93 +1,99 @@
 [
   {
-    "full_name": "facefusion/facefusion",
-    "stargazers_count": 16612,
+    "full_name": "danmindru/page-ui",
+    "stargazers_count": 618,
     "open_issues_count": 0,
-    "forks_count": 2439
+    "forks_count": 28
+  },
+  {
+    "full_name": "facefusion/facefusion",
+    "stargazers_count": 16666,
+    "open_issues_count": 0,
+    "forks_count": 2459
   },
   {
     "full_name": "KwaiVGI/LivePortrait",
-    "stargazers_count": 6472,
-    "open_issues_count": 77,
-    "forks_count": 556
+    "stargazers_count": 6988,
+    "open_issues_count": 85,
+    "forks_count": 614
   },
   {
     "full_name": "langchain-ai/langchainjs",
-    "stargazers_count": 11858,
-    "open_issues_count": 203,
-    "forks_count": 1987
+    "stargazers_count": 11884,
+    "open_issues_count": 197,
+    "forks_count": 1989
   },
   {
     "full_name": "fonoster/fonoster",
-    "stargazers_count": 6200,
+    "stargazers_count": 6204,
     "open_issues_count": 7,
-    "forks_count": 329
+    "forks_count": 331
   },
   {
     "full_name": "truefoundry/cognita",
-    "stargazers_count": 3009,
-    "open_issues_count": 7,
-    "forks_count": 229
+    "stargazers_count": 3017,
+    "open_issues_count": 8,
+    "forks_count": 233
   },
   {
     "full_name": "modelscope/DiffSynth-Studio",
-    "stargazers_count": 5826,
-    "open_issues_count": 52,
-    "forks_count": 523
+    "stargazers_count": 5882,
+    "open_issues_count": 54,
+    "forks_count": 525
   },
   {
     "full_name": "MrKai77/Loop",
-    "stargazers_count": 5545,
-    "open_issues_count": 58,
+    "stargazers_count": 5574,
+    "open_issues_count": 54,
     "forks_count": 108
   },
   {
     "full_name": "VikParuchuri/marker",
-    "stargazers_count": 14359,
-    "open_issues_count": 83,
-    "forks_count": 738
+    "stargazers_count": 14495,
+    "open_issues_count": 87,
+    "forks_count": 748
   },
   {
     "full_name": "sxyazi/yazi",
-    "stargazers_count": 12338,
-    "open_issues_count": 36,
-    "forks_count": 286
+    "stargazers_count": 12483,
+    "open_issues_count": 39,
+    "forks_count": 289
   },
   {
     "full_name": "ramonszo/zuck.js",
-    "stargazers_count": 3661,
+    "stargazers_count": 3662,
     "open_issues_count": 18,
     "forks_count": 317
   },
   {
     "full_name": "AlexChalakov/awesome-generative-ai-companies",
-    "stargazers_count": 92,
+    "stargazers_count": 94,
     "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "swyxio/spark-joy",
-    "stargazers_count": 9321,
+    "stargazers_count": 9323,
     "open_issues_count": 14,
     "forks_count": 322
   },
   {
     "full_name": "MoyGcc/vid2avatar",
-    "stargazers_count": 1205,
+    "stargazers_count": 1206,
     "open_issues_count": 22,
     "forks_count": 102
   },
   {
     "full_name": "baptadn/photoshot",
-    "stargazers_count": 3414,
+    "stargazers_count": 3416,
     "open_issues_count": 10,
     "forks_count": 417
   },
   {
     "full_name": "CorentinTh/it-tools",
-    "stargazers_count": 18777,
-    "open_issues_count": 454,
-    "forks_count": 2266
+    "stargazers_count": 18839,
+    "open_issues_count": 455,
+    "forks_count": 2277
   },
   {
     "full_name": "akawashiro/jendeley",
@@ -97,27 +103,27 @@
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 56501,
-    "open_issues_count": 20,
-    "forks_count": 28990
+    "stargazers_count": 56845,
+    "open_issues_count": 22,
+    "forks_count": 29196
   },
   {
     "full_name": "steven2358/awesome-generative-ai",
-    "stargazers_count": 5270,
-    "open_issues_count": 69,
-    "forks_count": 577
+    "stargazers_count": 5284,
+    "open_issues_count": 70,
+    "forks_count": 579
   },
   {
     "full_name": "aishwaryanr/awesome-generative-ai-guide",
-    "stargazers_count": 6245,
+    "stargazers_count": 6307,
     "open_issues_count": 0,
-    "forks_count": 1279
+    "forks_count": 1291
   },
   {
     "full_name": "filipecalegario/awesome-generative-ai",
-    "stargazers_count": 2303,
+    "stargazers_count": 2314,
     "open_issues_count": 0,
-    "forks_count": 346
+    "forks_count": 348
   },
   {
     "full_name": "eduqg/PageStation-inspired-on-ps5-reactjs",
@@ -139,44 +145,38 @@
   },
   {
     "full_name": "stefvndev/car-rental",
-    "stargazers_count": 174,
+    "stargazers_count": 173,
     "open_issues_count": 2,
     "forks_count": 62
   },
   {
     "full_name": "coqui-ai/TTS",
-    "stargazers_count": 32016,
-    "open_issues_count": 77,
-    "forks_count": 3848
+    "stargazers_count": 32085,
+    "open_issues_count": 51,
+    "forks_count": 3857
   },
   {
     "full_name": "ganeshrvel/openmtp",
-    "stargazers_count": 3280,
-    "open_issues_count": 101,
+    "stargazers_count": 3288,
+    "open_issues_count": 100,
     "forks_count": 130
   },
   {
     "full_name": "caido/caido",
-    "stargazers_count": 988,
-    "open_issues_count": 448,
+    "stargazers_count": 989,
+    "open_issues_count": 450,
     "forks_count": 41
   },
   {
     "full_name": "monicahq/monica",
-    "stargazers_count": 21098,
-    "open_issues_count": 695,
-    "forks_count": 2095
+    "stargazers_count": 21121,
+    "open_issues_count": 697,
+    "forks_count": 2100
   },
   {
     "full_name": "davidsawyer/airbnb-price-per-night-correcter",
     "stargazers_count": 143,
     "open_issues_count": 9,
     "forks_count": 7
-  },
-  {
-    "full_name": "trekhleb/promote-your-next-startup",
-    "stargazers_count": 2091,
-    "open_issues_count": 6,
-    "forks_count": 182
   }
 ]
