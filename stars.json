@@ -1,27 +1,27 @@
 [
   {
     "full_name": "alexellis/arkade",
-    "stargazers_count": 4157,
-    "open_issues_count": 82,
+    "stargazers_count": 4160,
+    "open_issues_count": 83,
     "forks_count": 286
   },
   {
     "full_name": "joschan21/digitalhippo",
-    "stargazers_count": 3030,
-    "open_issues_count": 21,
-    "forks_count": 564
+    "stargazers_count": 3043,
+    "open_issues_count": 20,
+    "forks_count": 569
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 22182,
-    "open_issues_count": 347,
-    "forks_count": 1341
+    "stargazers_count": 22257,
+    "open_issues_count": 348,
+    "forks_count": 1349
   },
   {
     "full_name": "solana-labs/solana",
-    "stargazers_count": 12781,
-    "open_issues_count": 374,
-    "forks_count": 4029
+    "stargazers_count": 12794,
+    "open_issues_count": 368,
+    "forks_count": 4038
   },
   {
     "full_name": "leesiongchan/ads-manager",
@@ -31,81 +31,81 @@
   },
   {
     "full_name": "jitsucom/jitsu",
-    "stargazers_count": 3970,
+    "stargazers_count": 3974,
     "open_issues_count": 14,
-    "forks_count": 281
+    "forks_count": 282
   },
   {
     "full_name": "giventofly/pixelit",
-    "stargazers_count": 1239,
+    "stargazers_count": 1243,
     "open_issues_count": 4,
-    "forks_count": 196
+    "forks_count": 195
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 19880,
-    "open_issues_count": 1467,
-    "forks_count": 1178
+    "stargazers_count": 19954,
+    "open_issues_count": 1480,
+    "forks_count": 1184
   },
   {
     "full_name": "danmindru/page-ui",
-    "stargazers_count": 776,
-    "open_issues_count": 2,
-    "forks_count": 35
+    "stargazers_count": 803,
+    "open_issues_count": 1,
+    "forks_count": 37
   },
   {
     "full_name": "facefusion/facefusion",
-    "stargazers_count": 16949,
+    "stargazers_count": 17011,
     "open_issues_count": 0,
-    "forks_count": 2518
+    "forks_count": 2522
   },
   {
     "full_name": "KwaiVGI/LivePortrait",
-    "stargazers_count": 9073,
-    "open_issues_count": 120,
-    "forks_count": 868
+    "stargazers_count": 9405,
+    "open_issues_count": 127,
+    "forks_count": 901
   },
   {
     "full_name": "langchain-ai/langchainjs",
-    "stargazers_count": 11981,
-    "open_issues_count": 202,
-    "forks_count": 2006
+    "stargazers_count": 12005,
+    "open_issues_count": 206,
+    "forks_count": 2010
   },
   {
     "full_name": "fonoster/fonoster",
-    "stargazers_count": 6226,
-    "open_issues_count": 7,
+    "stargazers_count": 6233,
+    "open_issues_count": 6,
     "forks_count": 335
   },
   {
     "full_name": "truefoundry/cognita",
-    "stargazers_count": 3049,
-    "open_issues_count": 7,
+    "stargazers_count": 3062,
+    "open_issues_count": 6,
     "forks_count": 235
   },
   {
     "full_name": "modelscope/DiffSynth-Studio",
-    "stargazers_count": 6038,
-    "open_issues_count": 67,
-    "forks_count": 539
+    "stargazers_count": 6059,
+    "open_issues_count": 68,
+    "forks_count": 542
   },
   {
     "full_name": "MrKai77/Loop",
-    "stargazers_count": 5773,
-    "open_issues_count": 58,
-    "forks_count": 112
+    "stargazers_count": 5899,
+    "open_issues_count": 60,
+    "forks_count": 115
   },
   {
     "full_name": "VikParuchuri/marker",
-    "stargazers_count": 15066,
-    "open_issues_count": 93,
-    "forks_count": 805
+    "stargazers_count": 15193,
+    "open_issues_count": 96,
+    "forks_count": 818
   },
   {
     "full_name": "sxyazi/yazi",
-    "stargazers_count": 13137,
-    "open_issues_count": 60,
-    "forks_count": 298
+    "stargazers_count": 13317,
+    "open_issues_count": 54,
+    "forks_count": 307
   },
   {
     "full_name": "ramonszo/zuck.js",
@@ -121,27 +121,27 @@
   },
   {
     "full_name": "swyxio/spark-joy",
-    "stargazers_count": 9329,
-    "open_issues_count": 14,
-    "forks_count": 323
+    "stargazers_count": 9334,
+    "open_issues_count": 15,
+    "forks_count": 324
   },
   {
     "full_name": "MoyGcc/vid2avatar",
-    "stargazers_count": 1217,
+    "stargazers_count": 1216,
     "open_issues_count": 22,
     "forks_count": 99
   },
   {
     "full_name": "baptadn/photoshot",
-    "stargazers_count": 3431,
+    "stargazers_count": 3438,
     "open_issues_count": 10,
     "forks_count": 418
   },
   {
     "full_name": "CorentinTh/it-tools",
-    "stargazers_count": 19134,
-    "open_issues_count": 464,
-    "forks_count": 2308
+    "stargazers_count": 19244,
+    "open_issues_count": 466,
+    "forks_count": 2324
   },
   {
     "full_name": "akawashiro/jendeley",
@@ -151,26 +151,26 @@
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 57834,
-    "open_issues_count": 18,
-    "forks_count": 29839
+    "stargazers_count": 57955,
+    "open_issues_count": 21,
+    "forks_count": 29956
   },
   {
     "full_name": "steven2358/awesome-generative-ai",
-    "stargazers_count": 5376,
-    "open_issues_count": 74,
-    "forks_count": 592
+    "stargazers_count": 5394,
+    "open_issues_count": 76,
+    "forks_count": 594
   },
   {
     "full_name": "aishwaryanr/awesome-generative-ai-guide",
-    "stargazers_count": 6536,
+    "stargazers_count": 6573,
     "open_issues_count": 0,
-    "forks_count": 1358
+    "forks_count": 1369
   },
   {
     "full_name": "filipecalegario/awesome-generative-ai",
-    "stargazers_count": 2352,
-    "open_issues_count": 2,
+    "stargazers_count": 2351,
+    "open_issues_count": 3,
     "forks_count": 357
   },
   {
